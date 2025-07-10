@@ -72,7 +72,15 @@ This project demonstrates how AI can empower school administrators to gain insig
 
 ## 🖼️ Screenshot
 
-![image-7](https://github.com/user-attachments/assets/c773a764-03ab-40e3-9519-4e13341a9cc3)
+![image](https://github.com/user-attachments/assets/3f469572-9d85-482a-90b2-56d1e7ecfa22)
+![image-1](https://github.com/user-attachments/assets/848eaff0-dd32-4d22-b681-195b37ee4626)
+![image-2](https://github.com/user-attachments/assets/8cf53cdf-2c51-482d-a730-0c696f8ebb76)
+![image-3](https://github.com/user-attachments/assets/b5a81dfe-de9e-40ce-8f09-4b992ce6b9fc)
+![image-4](https://github.com/user-attachments/assets/4cd0f6b9-edd4-47fc-8b16-1750a8323576)
+![image-5](https://github.com/user-attachments/assets/b7a2def7-42e7-4d4c-9123-f17c9851c809)
+![image-6](https://github.com/user-attachments/assets/b4b76fce-26e9-4d31-accf-8d496dc517f4)
+![image-7](https://github.com/user-attachments/assets/a0085ce7-29a1-4afb-af5f-3a5b7d5c24be)
+
 
 
 
