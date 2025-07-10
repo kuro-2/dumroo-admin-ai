@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+
+# Environment
+.env
+.venv/
+env/
+venv/
+*.env
+
+# Streamlit cache
+.streamlit/
+.cache/
+.cache_data/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data.json
+*.sqlite3
+*.db
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Images (if generated or temporary)
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Misc
+*.bak
+*.swp

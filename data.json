@@ -1,0 +1,102 @@
+[
+  {
+    "student_id": "S001",
+    "name": "Alice Smith",
+    "grade": 8,
+    "class": "8A",
+    "region": "North",
+    "submission_status": "Submitted",
+    "quiz_score": 85,
+    "quiz_date": "2025-07-01"
+  },
+  {
+    "student_id": "S002",
+    "name": "Bob Johnson",
+    "grade": 8,
+    "class": "8A",
+    "region": "North",
+    "submission_status": "Not Submitted",
+    "quiz_score": 72,
+    "quiz_date": "2025-07-01"
+  },
+  {
+    "student_id": "S003",
+    "name": "Charlie Brown",
+    "grade": 8,
+    "class": "8B",
+    "region": "South",
+    "submission_status": "Submitted",
+    "quiz_score": 90,
+    "quiz_date": "2025-07-08"
+  },
+  {
+    "student_id": "S004",
+    "name": "Diana Miller",
+    "grade": 9,
+    "class": "9A",
+    "region": "North",
+    "submission_status": "Not Submitted",
+    "quiz_score": 65,
+    "quiz_date": "2025-07-08"
+  },
+  {
+    "student_id": "S005",
+    "name": "Eve Davis",
+    "grade": 9,
+    "class": "9A",
+    "region": "South",
+    "submission_status": "Submitted",
+    "quiz_score": 95,
+    "quiz_date": "2025-07-15"
+  },
+  {
+    "student_id": "S006",
+    "name": "Frank White",
+    "grade": 8,
+    "class": "8A",
+    "region": "North",
+    "submission_status": "Submitted",
+    "quiz_score": 78,
+    "quiz_date": "2025-07-15"
+  },
+  {
+    "student_id": "S007",
+    "name": "Grace Lee",
+    "grade": 8,
+    "class": "8B",
+    "region": "South",
+    "submission_status": "Not Submitted",
+    "quiz_score": null,
+    "quiz_date": "2025-07-22"
+  },
+  {
+    "student_id": "S008",
+    "name": "Henry Wilson",
+    "grade": 9,
+    "class": "9A",
+    "region": "North",
+    "submission_status": "Submitted",
+    "quiz_score": 88,
+    "quiz_date": "2025-07-22"
+  },
+  {
+    "student_id": "S009",
+    "name": "Ivy Moore",
+    "grade": 8,
+    "class": "8A",
+    "region": "North",
+    "submission_status": "Submitted",
+    "quiz_score": 82,
+    "quiz_date": "2025-07-01"
+  },
+  {
+    "student_id": "S010",
+    "name": "Jack Taylor",
+    "grade": 9,
+    "class": "9B",
+    "region": "South",
+    "submission_status": "Not Submitted",
+    "quiz_score": null,
+    "quiz_date": "2025-07-29"
+  }
+]
